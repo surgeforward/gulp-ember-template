@@ -11,4 +11,4 @@ Getting Started
 * run `gulp`
 
 
-Note: I didn't use bower because I prefer to add my vendor files manually - I seem to always run into problem using bower.
+Note: I didn't use bower because I prefer to add my vendor files manually - I seem to always run into problems using bower.
