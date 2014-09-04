@@ -1,0 +1,17 @@
+html, body, .page{height:100%;}
+
+.navbar{margin-bottom:0;}
+.logo{width:40%;}
+
+#login{padding-top:5%; text-align:center; width:100%;}
+#login .logo{width:15%;}
+#loginform{margin:10px auto; width:25%;}
+#loginform .input-group{margin-bottom:10px;}
+.forget-password{cursor:pointer;}
+.forget-password span{margin-left:5px;}
+
+.lc{margin-left:1%;}
+
+.ember-application {
+    /*margin: 20px;*/
+}

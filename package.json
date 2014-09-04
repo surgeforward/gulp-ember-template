@@ -1,0 +1,31 @@
+{
+  "name": "gulp-ember-template",
+  "title": "gulp ember template",
+  "version": "0.0.1",
+  "private": false,
+  "author": {
+    "name": "Emad Ibrahim",
+    "company": "Surge"
+  },
+  "homepage": "https://github.com/surgeforward/gulp-ember-template",
+  "bugs": {
+    "url": "https://github.com/surgeforward/gulp-ember-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joinspoton/ember-handlebars"
+  },  
+  "devDependencies": {
+    "ember-handlebars": "^1.2.0",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-declare": "^0.3.0",
+    "gulp-handlebars": "^2.2.0",
+    "gulp-sass": "^0.7.2",
+    "gulp-sourcemaps": "^1.1.3",
+    "gulp-uglify": "^0.3.1",
+    "gulp-watch": "^0.6.9",
+    "gulp-webserver": "^0.7.0",
+    "gulp-wrap": "^0.3.0",
+  }
+}
